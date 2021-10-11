@@ -33,7 +33,7 @@ let title = document.querySelector('h1')
 //      console.log(a);
 //    }
 //  }
-
+// Сортировка по цене и возрасту
  let sortPrice = document.querySelector('.sort');
  let sortAge = document.querySelector('.age')
 
