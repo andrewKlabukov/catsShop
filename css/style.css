@@ -335,6 +335,9 @@ button::-moz-focus-inner {
     .cat-img img {
         width: 350px;
     }
+    .cat-img {
+        height: 244px;
+    }
     .main-card__item {
         width: 350px;
     }
